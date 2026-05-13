@@ -1,2 +1,2 @@
-# tamagochi
-Juego con tu nueva mascota virtual Minomi
+# ejercicios 2026
+diferentes tipos de ejercicio
